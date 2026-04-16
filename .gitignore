@@ -30,4 +30,7 @@ pnpm-debug.log*
 tests-examples
 *.csveditor/
 
-packages/editor
+packages/editor.env
+node_modules/
+dist/
+.astro/
